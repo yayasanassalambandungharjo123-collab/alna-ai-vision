@@ -9,7 +9,7 @@ from PIL import Image
 # ============================================
 # 🔑 API KEY GEMINI (GANTI DENGAN API KEY ANDA)
 # ============================================
-GEMINI_API_KEY = "AQ.Ab8RN6JWOxSS6lcJqJGAXwlarhPCJq4vbBq9479-qevandbgug"
+GEMINI_API_KEY = "AQ.Ab8RN6JjYZCDNny03I4jHfbX7m_KVFId3u2XnzMJuL_XdwwRGA"
 # ============================================
 
 # Konfigurasi Gemini
